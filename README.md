@@ -8,4 +8,11 @@ This notebook explaines the concept such as follows:
   3.To get started, run the following cell to load the packages and the planar dataset you will try to classify.
  The notebook contains examples of various outputs received when different initialization methods are used
  
- ## Gradient Checking
+ ## Gradient_Checking.ipynb
+  This notebook explains how really certain we can be that the implementation of backpropagation is correct. 
+ 
+ ## Regularization.ipynb
+ This notebook contains an implementation of regularization used for Hyperparameter Tuning in a NN.
+ 
+ ## Convolution_NN_Application.ipynb and Convolution _NN_StepByStep.ipynb
+ These notebooks contain applications of Convolutional NN applied to solve a problem and how to implement it from scratch.
